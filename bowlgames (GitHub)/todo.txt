@@ -1,0 +1,13 @@
+To do:
+Version 1.0
+- Confirm working points logic
+- Confirm tiebreaker in logic
+
+
+Version 1.1
+- Automate season creation
+- When reloading page after input error, keep good input in form
+- Email password changes
+- Different point values for playoff games?
+- Style and Design
+- League/Pool Support
